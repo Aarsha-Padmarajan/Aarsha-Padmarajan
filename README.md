@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there! I'm Aarsha Padmarajan, a third-year B.Tech Computer Science and Engineering student at College of Engineering Trivandrum. I'm passionate about exploring the realms of machine learning, web development, and robotics. Here's a glimpse into my coding journey:
+Hey there! I'm Aarsha Padmarajan, a fourth-year B.Tech Computer Science and Engineering student at College of Engineering Trivandrum. I'm passionate about exploring the realms of machine learning and DevOps. Here's a glimpse into my coding journey:
 
 ## 🚀 What I Do
 
@@ -23,7 +23,7 @@ I thrive on the intersection of code and creativity. My interests and expertise 
 
 - 💻 Machine Learning 
 - 🌐 Front-End Web Development
-- 🤖 Robotics Enthusiast
+  
 
 ## 🌱 I’m Currently Learning
 
