@@ -35,10 +35,14 @@ I'm currently diving deeper into:
 
 ## 💼 Experience
 
-- 👩‍💻 AI/ML Intern at Neuflo
-- 🌐 Web Designer at Astrocet (Astronomy Club of CET)
-- 🤖 Women in Robotics at Robocet
-- 📚 Secretary of IEEE RAS SB CET
+1. **Summer Intern at IIT Palakkad**
+2. **AI/ML Intern at Neuflo**
+
+## 📌 Positions
+
+1. **Chairperson IEEE SB CET**
+2. **Web Designer at AstroCET (Astronomy Club of CET)**
+3. **Program Coordinator, CET Women TechnoHub**
 
   ## 📊 GitHub Stats
 
